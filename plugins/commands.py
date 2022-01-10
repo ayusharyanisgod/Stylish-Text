@@ -17,13 +17,12 @@ async def start(c, m):
 
 `I can help you to get stylish fonts. Just send me some text and see magic.`
 
-**👲 Maintained By:** {owner.mention(style='md')}
 """
 
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('My Father 👨‍✈️', url=f"https://t.me/MetaverseNetwork")
+            InlineKeyboardButton('👲 Maintained By ', url=f"https://t.me/MetaverseNetwork")
         ]
     ]
     await m.reply_text(
