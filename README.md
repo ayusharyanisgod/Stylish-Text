@@ -3,14 +3,14 @@ This is a telegram bot help you to get stylish fonts and text.
 
 -------------------------------------------------
 
-## Deploy to heroku 🗳
+### Deploy to heroku 🗳
 Press the button Deploy to heroku and give the values for the config vars. 👇
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-Bots/Stylish-Text)
 
 -------------------------------------------------
 
-## Config Vars 🤖
+### Config Vars 🤖
 
 - `API_HASH:` Get this value from [my.telegram.org](https://my.telegram.org)
 
@@ -22,7 +22,7 @@ Press the button Deploy to heroku and give the values for the config vars. 👇
 
 -------------------------------------------------
 
-## Tools Used 🧰
+### Tools Used 🧰
 - Language Used [Python](https://www.python.org/)
 - Frame Work [Pyrogram](https://github.com/pyrogram/pyrogram)
 
