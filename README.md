@@ -10,7 +10,8 @@ This is a telegram bot help you to get stylish fonts and text.
 - `BOT_TOKEN:` Get the bot token from [Bot Father](https://telegram.dog/BotFather)
 
 - `OWNER_ID:` Get your user id from [MissRose](https://telegram.dog/MissRose_bot) 
-- 
+
+
 ## Deploy to heroku 🗳
 Press the button Deploy to heroku and give the values for the config vars. 👇
 
